@@ -23,3 +23,7 @@ build
 # other
 eclipse
 run
+
+# 资源备份文件
+*.bak-*
+
