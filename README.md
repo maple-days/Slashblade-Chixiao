@@ -1,3 +1,11 @@
+<p align="center">
+  <a href="https://github.com/maple-days"><img src="https://github.com/maple-days.png?size=96" width="56" alt="Maple Days"></a>
+</p>
+
+<p align="center">
+  <sub><b>Maple Days</b> · 《打脸日常》整合包附属 mod · Minecraft 1.12.2</sub>
+</p>
+
 <div align="center">
   <h2>Chixiao</h2>
   <p>SlashBlade addon: Chixiao Sword from Arknights:Endfield Chen Qianyu</p>
